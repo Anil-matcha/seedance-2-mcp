@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "seedance-2": {
+      "command": "python",
+      "args": ["/absolute/path/to/seedance-2-mcp/mcp_stdio.py"],
+      "env": {
+        "MUAPI_API_KEY": "${MUAPI_API_KEY}"
+      }
+    }
+  }
+}

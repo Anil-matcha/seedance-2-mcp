@@ -1,0 +1,13 @@
+{
+  "name": "seedance-2",
+  "description": "Generate Seedance 2 videos through MuAPI from Cursor and other MCP clients.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MuAPI",
+    "url": "https://muapi.ai"
+  },
+  "homepage": "https://muapi.ai",
+  "repository": "https://github.com/Anil-matcha/seedance-2-mcp",
+  "license": "MIT",
+  "categories": ["AI", "Video Generation", "MCP"]
+}
