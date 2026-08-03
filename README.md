@@ -7,6 +7,12 @@ A focused [Model Context Protocol](https://modelcontextprotocol.io) server for g
 
 The implementation is informed by [SamurAIGPT/muapi-mcp-server](https://github.com/SamurAIGPT/muapi-mcp-server): it forwards a MuAPI key, keeps generation asynchronous, and provides both an MCP stdio transport and a small HTTP bridge.
 
+## 📺 Video Tutorial
+
+[![How to Access Seedance 2.5 API (Step-by-Step Guide)](https://img.youtube.com/vi/Uszlw7H4VP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uszlw7H4VP4)
+
+**[How to Access Seedance 2.5 API (Step-by-Step Guide)](https://www.youtube.com/watch?v=Uszlw7H4VP4)** — a full walkthrough of getting an API key and making your first Seedance 2.5 call via [MuAPI](https://muapi.ai/seedance-2.5?utm_source=github&utm_medium=readme&utm_campaign=seedance-2-mcp).
+
 ## Related Projects
 
 - [MuAPI Seedance 2](https://muapi.ai/seedance-2) — Model landing page and browser playground links for the Seedance 2 family.
