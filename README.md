@@ -25,6 +25,7 @@ The implementation is informed by [SamurAIGPT/muapi-mcp-server](https://github.c
 - [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — Prompt and camera-control references for the Seedance family.
 - [muapi-mcp-server](https://github.com/SamurAIGPT/muapi-mcp-server) — Broad MuAPI MCP server reference for Claude, Cursor, and other clients.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Open-source media studio that uses MuAPI for image and video workflows.
+- [awesome-seedance-motion-control-api](https://github.com/Anil-matcha/awesome-seedance-motion-control-api) — Seedance 2 & 2.5 Motion Control API guide — recast a performance video with new performers while preserving motion, camera, and location
 
 ## Included tools
 
