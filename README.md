@@ -19,6 +19,7 @@ The implementation is informed by [SamurAIGPT/muapi-mcp-server](https://github.c
 - [MuAPI MCP documentation](https://muapi.ai/docs/mcp) — Hosted MCP setup and tool-use guidance.
 - [MuAPI access keys](https://muapi.ai/access-keys) — Create the API key required by this server.
 - [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python wrapper for Seedance 2.0 and Seedance 2 Mini.
+- [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) — companion project for the next Seedance API generation.
 - [seedance-2-generator](https://github.com/SamurAIGPT/seedance-2-generator) — Ready-made Next.js SaaS built on Seedance 2.
 - [seedance2-comfyui](https://github.com/Anil-matcha/seedance2-comfyui) — Seedance 2 custom nodes and workflows for ComfyUI.
 - [n8n-nodes-seedance2](https://github.com/Anil-matcha/n8n-nodes-seedance2) — Automate Seedance 2 generation in n8n.
